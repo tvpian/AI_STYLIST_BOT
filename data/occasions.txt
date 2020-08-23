@@ -1,0 +1,8 @@
+formal affair
+party
+wedding
+vacation
+other
+date
+work
+everyday

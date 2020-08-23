@@ -1,0 +1,10 @@
+[
+    {
+        "name": "bodyshape",
+        "pattern": "(?i)(\\bpear\\b|\\bathletic\\b|\\bstraight\\ \\&\\ narrow\\b|\\bhourglass\\b|\\bpetite\\b|\\bfull\\ bust\\b|\\bapple\\b)"
+    },
+    {
+        "name": "occasion",
+        "pattern": "(?i)(\\bformal\\ affair\\b|\\bparty\\b|\\bwedding\\b|\\bvacation\\b|\\bother\\b|\\bdate\\b|\\bwork\\b|\\beveryday\\b)"
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "states": [
+    "intent_affirm",
+    "intent_deny",
+    "intent_dress_search",
+    "intent_goodbye",
+    "intent_greet",
+    "intent_thanks",
+    "slot_bodyshape_0",
+    "slot_occasion_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_action_default_fallback",
+    "prev_action_deactivate_form",
+    "prev_action_revert_fallback_events",
+    "prev_action_default_ask_affirmation",
+    "prev_action_default_ask_rephrase",
+    "prev_utter_greet",
+    "prev_utter_did_that_help",
+    "prev_utter_need_more",
+    "prev_utter_goodbye",
+    "prev_utter_ask_again",
+    "prev_action_dress_search",
+    "prev_utter_default",
+    "prev_utter_gratitude",
+    "prev_utter_ask_location"
+  ]
+}

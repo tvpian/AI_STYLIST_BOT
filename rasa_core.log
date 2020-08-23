@@ -1,0 +1,36 @@
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_dress_search'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024FF0112E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',))
+Encountered an exception while running action 'action_dress_search'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_dress_search'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024FF264EFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',))
+Encountered an exception while running action 'action_dress_search'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_dress_search'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_dress_search'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_dress_search'. Action server responded with a non 200 status code of 404. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 404 Client Error: NOT FOUND for url: http://localhost:5055/
+Encountered an exception while running action 'action_dress_search'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_dress_search'. Action server responded with a non 200 status code of 404. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 404 Client Error: NOT FOUND for url: http://localhost:5055/
+Encountered an exception while running action 'action_dress_search'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_dress_search'. Action server responded with a non 200 status code of 404. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 404 Client Error: NOT FOUND for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_dress_search'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
