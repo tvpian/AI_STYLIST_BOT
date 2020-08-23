@@ -1,6 +1,5 @@
-# food-chatbot
+# AI_STYLIST_BOT
 
-This is the **Complete Version** of the Chatbot and can be directly used with slack by filling **slack_credentials.yml** and **Zomato API's** key in the **actions.py** files.
 
 ## Setup and installation
 
@@ -36,7 +35,7 @@ pipeline: spacy_sklearn
 
 ## How to run locally
 
-**Note**: If running on Windows, you will either have to [install make](http://gnuwin32.sourceforge.net/packages/make.htm) or copy the following commands from the [Makefile](https://github.com/mohdsanadzakirizvi/food-chatbot/blob/master/complete_version/Makefile)
+**Note**: If running on Windows, you will either have to [install make](http://gnuwin32.sourceforge.net/packages/make.htm) or copy the following commands from the [Makefile](https://github.com/tvpian/AI_STYLIST_BOT)
 
 1. You can train the Rasa NLU model by running:  
 ```make train-nlu```  
@@ -110,4 +109,3 @@ your_url_here/webhooks/slack/webhook
 
 ![](../images/event_subs.png)
 And you should now be able to talk to your chatbot in Slack!
-# AI_STYLIST_BOT
