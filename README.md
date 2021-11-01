@@ -1,4 +1,4 @@
-# AI_STYLIST_BOT
+# AI STYLIST BOT
 
 
 ## Setup and installation
